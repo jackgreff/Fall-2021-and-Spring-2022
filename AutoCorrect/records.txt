@@ -1,0 +1,9 @@
+Input word: jonny, Corrected word: Jinny.
+Input word: johnny, Corrected word: Johnny.
+Input word: JM, Corrected word: um.
+Input word: jam, word is correct.
+Input word: johnnY, word is correct.
+Input word: yeppers, Corrected word: helpers.
+Input word: yeppers, Corrected word: helpers.
+Input word: yeppers, Corrected word: helpers.
+Input word: yummy, word is correct.
